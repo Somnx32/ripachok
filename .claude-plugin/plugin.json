@@ -1,0 +1,11 @@
+{
+  "name": "ripachok",
+  "version": "0.1.0",
+  "author": {
+    "name": "Danylo"
+  },
+  "description": "Ripachok: a 32x32 pixel stalker with a rapeseed sprig who lives above the prompt \u2014 idles, paces while Claude works, waves on hover, dozes off.",
+  "types": "./types/index.d.ts",
+  "repository": "https://github.com/Somnx32/ripachok",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ripachok",
+  "description": "Ripachok, a pixel buddy mod for Claude Code",
+  "owner": {
+    "name": "Danylo"
+  },
+  "plugins": [
+    {
+      "name": "ripachok",
+      "source": "./",
+      "description": "A 32x32 pixel stalker with a rapeseed sprig who lives above the Claude Code prompt."
+    }
+  ]
+}
